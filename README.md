@@ -1,16 +1,15 @@
-### Hi there 👋
+### Introduction
+I am DownloadPizza, I am currently learning stuffs at a higher technical school in Austria.
+I like to work with Kotlin, Rust and a lot of other stuff.
+Only think I kind of dislike right now is Android apps in Java/Kt as I was too lazy to learn it so far. Also I try to 
+avoid vanilla JS wherever I can, but im very happy with TS.
 
-<!--
-**downloadpizza/downloadpizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I have learned
+- Java
+- <img src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg" width="15" height="15"  alt=""/> Kotlin
+- Javascript (ES2015)
+- Typescript
+- HTML - Css - Js
+- Object Oriented Programming
+- Imperative Programming
+- Basics of Functional Programming

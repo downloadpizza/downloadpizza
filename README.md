@@ -6,7 +6,8 @@ avoid vanilla JS wherever I can, but im very happy with TS.
 
 ### Stuff I have learned
 - Java
-- <img src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg" width="15" height="15"  alt=""/> Kotlin
+- <img src="images/kotlin.svg" width="15" height="15"  alt=""/> Kotlin
+ <img src="https://raw.githubusercontent.com/downloadpizza/downloadpizza/master/images/kotlin.svg" width="15" height="15"  alt=""/>
 - Javascript (ES2015)
 - Typescript
 - HTML - Css - Js

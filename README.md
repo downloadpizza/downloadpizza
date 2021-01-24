@@ -10,3 +10,5 @@ avoid vanilla JS wherever I can, but im very happy with TS.
 - <img src="https://raw.githubusercontent.com/downloadpizza/downloadpizza/master/images/js.svg" width="15" height="15"  alt=""/> Javascript (ES2015)
 - <img src="https://raw.githubusercontent.com/downloadpizza/downloadpizza/master/images/ts.svg" width="15" height="15"  alt=""/> Typescript
 - Other stuff that I am too lazy to write down.
+
+Fighting for twitter @downloadpizza handle

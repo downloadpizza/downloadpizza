@@ -1,5 +1,5 @@
 ### Introduction
-I am DownloadPizza, I am currently learning stuffs at a higher technical school in Austria.
+I am DownloadPizza, I am currently working in Software Development in Austria.
 I like to work with Kotlin, Java, Rust and a lot of other stuff.
 Also I try to avoid vanilla JS wherever I can, but im very happy with TS.
 
